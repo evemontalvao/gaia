@@ -1,0 +1,6 @@
+{
+	"dir": {
+		"articles": "`${process.cwd()}/src/_articles`",
+		"templates": "`${process.cwd()}/src/_templates`"
+	}
+}

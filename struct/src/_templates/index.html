@@ -1,0 +1,7 @@
+{% extends "partials/header.html" %}
+<section>
+	{% for post in posts %}
+		{{ post.title }}
+	{% endfor %}
+</section>
+{% extends "partials/footer.html" %}
